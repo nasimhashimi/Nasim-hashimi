@@ -1,0 +1,96 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Social Media Links
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+ </head>
+ <body class="bg-gray-100 font-roboto">
+  <div class="container mx-auto p-4">
+   <div class="bg-white shadow-md rounded-lg p-6">
+    <h1 class="text-2xl font-bold mb-4">
+     My Social Media Links
+    </h1>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+     <!-- Facebook -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="Facebook logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/0jeOPZjwEzULDaFJUFYiFb28DzISfIu7BmzuIRgjkpTDkKfnA.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        Facebook
+       </h2>
+       <a class="text-blue-600" href="#">
+        https://facebook.com/yourprofile
+       </a>
+      </div>
+     </div>
+     <!-- Twitter -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="Twitter logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/PT7Dh5VUaFbIPNjHbvYNkcJuxKQf9hv6Hnqq5AEIvaSfjKfnA.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        Twitter
+       </h2>
+       <a class="text-blue-400" href="#">
+        https://twitter.com/yourprofile
+       </a>
+      </div>
+     </div>
+     <!-- Instagram -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="Instagram logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/3D1MNygnVbo9DRKlaeeF0LnrS3XNPvpAc4xCEYzeaYDAIVePB.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        Instagram
+       </h2>
+       <a class="text-pink-600" href="#">
+        https://instagram.com/yourprofile
+       </a>
+      </div>
+     </div>
+     <!-- LinkedIn -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="LinkedIn logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/ZbY07XAckh6jLJiTS4gExf0hg9Cd4fU24FGxiNFzKs78jKfnA.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        LinkedIn
+       </h2>
+       <a class="text-blue-700" href="#">
+        https://linkedin.com/in/yourprofile
+       </a>
+      </div>
+     </div>
+     <!-- YouTube -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="YouTube logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/tx0mV8CeGPXhLqvQVwXlIWTTDtZxFwNHvVRnfxjGBb9CkKfnA.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        YouTube
+       </h2>
+       <a class="text-red-600" href="#">
+        https://youtube.com/yourchannel
+       </a>
+      </div>
+     </div>
+     <!-- TikTok -->
+     <div class="flex items-center space-x-4 p-4 border rounded-lg">
+      <img alt="TikTok logo" class="w-12 h-12" height="50" src="https://storage.googleapis.com/a1aa/image/SfqGe1PzV1tfeQoPvUsUEsn1lejmucgfplsmGrfEl2yu9RlfTA.jpg" width="50"/>
+      <div>
+       <h2 class="text-lg font-semibold">
+        TikTok
+       </h2>
+       <a class="text-black" href="#">
+        https://tiktok.com/@yourprofile
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
